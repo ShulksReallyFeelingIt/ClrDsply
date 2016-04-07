@@ -32,7 +32,7 @@
               </block>
             </value>
             <value name="BOTHMOVRIGHT">
-              <block type="math_number" id="32">
+              <block type="math_number" id="9">
                 <field name="NUM">80</field>
               </block>
             </value>
