@@ -54,18 +54,7 @@
           </block>
         </value>
         <statement name="DO1">
-          <block type="movement_setmotors" id="13" inline="true">
-            <value name="BOTHMOVLEFT">
-              <block type="math_number" id="14">
-                <field name="NUM">50</field>
-              </block>
-            </value>
-            <value name="BOTHMOVRIGHT">
-              <block type="math_number" id="15">
-                <field name="NUM">80</field>
-              </block>
-            </value>
-          </block>
+          <block type="movement_stop" id="34"></block>
         </statement>
         <statement name="ELSE">
           <block type="movement_setmotors" id="16" inline="true">
